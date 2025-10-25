@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunsanthoshen" alt="arjunsanthoshen" /></a> </p>
 
-- 🔭 I’m currently working on *Kotlin*
-
-- 🌱 I’m currently learning *Java, Kotlin*
-
-- 👯 I’m looking to collaborate on *Java*
+- 🌱 I’m currently learning *Java*
 
 - 👨‍💻 All of my projects are available at [https://arjunsanthoshen.github.io/Portfolio/](https://arjunsanthoshen.github.io/Portfolio/)
 
@@ -17,9 +13,7 @@
 
 - 💬 Ask me about *Python*
 
-- 📫 How to reach me *arjunsanthoshenxthb@gmail.com*
-
-- ⚡ Fun fact *I think I'm Funny*
+- 📫 How to reach me *arjunsanthoshen@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
