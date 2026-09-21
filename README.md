@@ -80,7 +80,7 @@
 
 ### 🎓 [Exam Seating & Duty Allocation System](https://github.com/Arjunsanthoshen/Exam-Seating-And-Duty-Allocation)
 
-🔗 [Live Demo](https://exam-seating-and-duty-allocation.onrender.com)
+🔗 [Live Demo ↗](https://exam-seating-and-duty-allocation.onrender.com)
 
 A web-based system designed to automate **exam seating arrangements and faculty duty allocation**.
 
@@ -101,7 +101,7 @@ A web-based system designed to automate **exam seating arrangements and faculty 
 
 ### 🛡️ [TruthShield](https://github.com/Arjunsanthoshen/TruthShield)
 
-🔗 [Live Demo](https://truthshield-tfr3.onrender.com)
+🔗 [Live Demo ↗](https://truthshield-tfr3.onrender.com)
 
 A web platform focused on identifying potentially **AI-generated and manipulated media**.
 
