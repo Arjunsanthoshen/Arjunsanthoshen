@@ -78,7 +78,9 @@
 
 ## 🔥 Featured Projects
 
-### 🎓 Exam Seating & Duty Allocation System
+### 🎓 [Exam Seating & Duty Allocation System](https://github.com/Arjunsanthoshen/Exam-Seating-And-Duty-Allocation)
+
+🔗 [Live Demo](https://exam-seating-and-duty-allocation.onrender.com)
 
 A web-based system designed to automate **exam seating arrangements and faculty duty allocation**.
 
@@ -97,7 +99,9 @@ A web-based system designed to automate **exam seating arrangements and faculty 
 
 ---
 
-### 🛡️ TruthShield
+### 🛡️ [TruthShield](https://github.com/Arjunsanthoshen/TruthShield)
+
+🔗 [Live Demo](https://truthshield-tfr3.onrender.com)
 
 A web platform focused on identifying potentially **AI-generated and manipulated media**.
 
@@ -173,33 +177,12 @@ Better Software Architecture 🏗️
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjunsanthoshen&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunsanthoshen&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsanthoshen&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunsanthoshen&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 ## 🌐 Find Me Around the Internet
 
